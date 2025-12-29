@@ -191,3 +191,6 @@ streamlit run app.py
 * Automatic retry handling for Reddit API rate limits
 * Analytics and engagement tracking
 * AI-assisted post and comment generation
+
+
+complete detailed doc : https://docs.google.com/document/d/1Xqt5WReMVGq60ECu2js5KDD7hX-6-zjnJwr387yfiCc/edit?tab=t.0
