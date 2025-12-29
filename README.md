@@ -1,8 +1,3 @@
-Below is the **plain Markdown content** (no code fences, no emojis).
-You can directly copy-paste this into your `README.md`.
-
----
-
 # Reddit Multi-Account Poster
 
 A Streamlit-based web application for managing multiple Reddit accounts from a single interface.
